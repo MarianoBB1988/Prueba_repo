@@ -63,7 +63,7 @@ def menu():
     elif opcion == 0:
         return
     else:
-        print("Opción no válida")
+        print("Opción no válida, intentelo nuyevamente.")
         
                 
 menu()
